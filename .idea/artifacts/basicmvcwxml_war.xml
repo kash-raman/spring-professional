@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="basicmvcwxml:war">
+    <output-path>$PROJECT_DIR$/basicmvcwxml/target</output-path>
+    <root id="archive" name="basic-mvc-wxml-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="basicmvcwxml:war exploded" />
+    </root>
+  </artifact>
+</component>

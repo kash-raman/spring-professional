@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/basicmvcjava/basicmvcjava.iml" filepath="$PROJECT_DIR$/basicmvcjava/basicmvcjava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basicmvcwxml/basicmvcwxml.iml" filepath="$PROJECT_DIR$/basicmvcwxml/basicmvcwxml.iml" />
+    </modules>
+  </component>
+</project>
